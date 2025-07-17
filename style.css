@@ -1,0 +1,38 @@
+*{
+    background-color: whitesmoke;
+}
+h1{
+    color: blue;
+}
+#btn1{
+    background-color: blue;
+}
+#btn2{
+    background-color: darkgreen;
+    color: white;
+}
+.wrapper{
+    text-align: center;
+
+}
+.container{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    padding: 100px;
+}
+#rectangle{
+    width: 200px;
+    border: 15px solid white;
+    background-color: white;
+    display: inline-block;
+    border-radius: 12px;
+    text-align: center;
+    right: 0px;
+    padding-bottom: 24px;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
